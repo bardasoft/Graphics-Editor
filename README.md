@@ -1,2 +1,2 @@
 # MS_Paint_Clone
-my implementation of MS paint using WinForms with C# and .NET.
+My implementation of MS paint using WinForms with C# and .NET done as a side project.
